@@ -9,7 +9,7 @@ const BgSelector = ({ setBgColor }) => {
   ];
 
   return (
-    <div className="flex justify-center mb-auto mt-4">
+    <div className="flex justify-center mt-5">
       <div
         className={`cursor-pointer w-8 h-8 lg:w-10 lg:h-10 bg-gradient-radial ${colors[0]} rounded-full border mx-2 border-black`}
         onClick={() => setBgColor(colors[0])}

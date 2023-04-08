@@ -20,7 +20,7 @@ const App = () => {
     <div
       className={`bg-gradient-radial ${
         bgColor ? bgColor : "from-yellow-400 to-orange-500"
-      } min-h-screen flex flex-col justify-center`}
+      } min-h-screen flex flex-col justify-between`}
     >
       <BgSelector setBgColor={setBgColor} />
       <JokeCard joke={joke} />
