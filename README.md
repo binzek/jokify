@@ -42,7 +42,7 @@ Jokify is an interactive React app that delivers funny or sarcastic jokes by the
 - It took me a long time to implement background changing feature, it taught me many things. Finally I figured out that it was so easy.
 - It was first time I am facing so many bugs, so it was a wonderful experience to debug issues.
 - I managed to implement a comic style look and feel (I don't know how much good it is).
-- The total working was similiar to one of my previous projects, [Addviser](https://github.com/wajid-nv/addviser). So it was easy to implement at some points.
+- The total working was similiar to one of my previous projects, [Addviser](https://github.com/binzek/addviser). So it was easy to implement at some points.
 - I also tried to improve readability and coding standards as I can.
 
 ## Acknowledgment
