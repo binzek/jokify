@@ -2,7 +2,7 @@
 
 Jokify is an interactive React app that delivers funny or sarcastic jokes by the help JokeAPI.
 
-### [Visit Jokify](https://jokify.wajid.me)
+### [Visit Jokify](https://jokify.live.binzek.com/)
 
 ## Features
 
